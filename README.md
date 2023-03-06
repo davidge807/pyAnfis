@@ -8,18 +8,33 @@ PyANFIS is designed to be user-friendly and customizable, with a simple and intu
 
 This library is being developed as part of a Master's Thesis in the TECI program at the Complutense University of Madrid (UCM), and is intended to be a useful resource for researchers and practitioners in the fields of machine learning, artificial intelligence, control engineering, and other related areas.
 
-Features:
 
-Implementation of various ANFIS architectures
-Support for different learning algorithms and optimization methods
-Simple and intuitive interface for model configuration and fine-tuning
-Comprehensive documentation and examples
-Customizable and extensible architecture
-Dependencies:
 
-Python 3.x
-NumPy, SciPy, Matplotlib
-Scikit-fuzzy
-License:
+## Features:
+
+· Implementation of various ANFIS architectures
+
+· Support for different learning algorithms and optimization methods
+
+· Simple and intuitive interface for model configuration and fine-tuning
+
+· Comprehensive documentation and examples
+
+· Customizable and extensible architecture
+
+
+
+## Dependencies:
+
+· Python 3.x
+
+· NumPy, SciPy, Matplotlib
+
+· Scikit-fuzzy
+
+
+
+
+## License:
 
 PyANFIS is released under the MIT License, which means that it can be freely used, modified, and distributed, with no warranties or liabilities. Contributions and feedback are welcome!
